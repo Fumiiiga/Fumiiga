@@ -1,7 +1,7 @@
 # Sergio Gomes
 Hi there, I'm Sergio ! As student and technology enthusiast I'm looking forward to enroll in fullstack development. I like to explore new techniques and knowledge, as well as perfecting them. 
 
-- :computer: Junior Support Analyst 
+- :computer: Junior System Analyst
 - :city_sunset: São Paulo - SP
 
 ### 🛠 Languages & Tools
