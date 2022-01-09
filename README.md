@@ -7,7 +7,7 @@ Hi there, I'm Sergio ! As student and technology enthusiast I'm looking forward 
  
 ----
 
-![Sergio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergioagomes&&show_icons=true&&theme=radical&line_height=27&count_private=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioagomes&hide=scss&layout=compact&theme=radical&&show_icons=true&line_height=27&count_private=true)
+![Sergio GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sergioagomes&&show_icons=true&&theme=radical&line_height=27&count_private=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioagomes&hide=scss&layout=compact&theme=radical&&show_icons=true&line_height=27&count_private=true)
 
 ----
 
