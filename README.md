@@ -4,20 +4,12 @@ Hi there, I'm Sergio ! As student and technology enthusiast I'm looking forward 
 - :computer: Junior System Analyst
 - :city_sunset: São Paulo - SP
 
-### 🛠 Languages & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5&logoColor=FFFFFF)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=FFFFFF)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=FFFFFF)&nbsp;
  
+----
 
+![Sergio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergioagomes&&show_icons=true&&theme=radical&line_height=27&count_private=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioagomes&hide=scss&layout=compact&theme=radical&&show_icons=true&line_height=27&count_private=true)
 
-### 📈 Analytics
-
-
-![Sergio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergioagomes&show_icons=true&theme=radical)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioagomes&hide=scss&layout=compact&theme=radical)
-
-
+----
 
 ### 📞 Let's Connect?
 Get in touch with me in one of the contact ways below:
