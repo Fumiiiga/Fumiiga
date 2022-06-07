@@ -1,15 +1,21 @@
-# Sergio Gomes
-Hi there, I'm Sergio ! As student and technology enthusiast I'm looking forward to enroll in fullstack development. I like to explore new techniques and knowledge, as well as perfecting them. 
+<h1 align="center"> Hi there !! </h1>
 
-- :computer: Junior System Analyst
-- :city_sunset: São Paulo - SP
-
+---
+<div>
  
-----
+My names is Sergio Gomes, I currently live in São Paulo, i'm student and technology enthusiast. I wish to become a proficient developer. I like to explore, learn new technologies and techniques.
 
-![Sergio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergioagomes&count_private=true&show_icons=true&theme=radical)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioagomes&hide=scss&layout=compact&theme=radical&&show_icons=true&line_height=27&count_private=true)
+<h2 align="center"> Detailed information  </h2>
 
-----
+* **Name**: Sérgio Gomes
+* **Age**: 23
+* **Living in**: São Paulo, Brazil
+* **Stack**: C# - .NET - Vuejs - SQL 
+* **University**: Bachelor's Degree in Computer Science
+ 
+</div>
+
+---
 
 ### 📞 Let's Connect?
 Get in touch with me in one of the contact ways below:
