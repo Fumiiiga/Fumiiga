@@ -11,7 +11,6 @@ My names is Sergio Gomes, I currently live in São Paulo, i'm student and techno
 * **Age**: 23
 * **Living in**: São Paulo, Brazil
 * **Stack**: C# - .NET - Vuejs - SQL 
-* **University**: Bachelor's Degree in Computer Science
  
 </div>
 
