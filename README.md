@@ -8,7 +8,7 @@ My names is Sergio Gomes, I currently live in São Paulo, i'm student and techno
 <h2 align="center"> Detailed information  </h2>
 
 * **Name**: Sérgio Gomes
-* **Age**: 23
+* **Age**: 24
 * **Living in**: São Paulo, Brazil
 * **Stack**: C# - .NET - Vuejs - SQL 
  
