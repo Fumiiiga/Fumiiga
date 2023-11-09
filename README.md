@@ -10,7 +10,7 @@ My names is Sergio Gomes, I currently live in São Paulo, i'm student and techno
 * **Name**: Sérgio Gomes
 * **Age**: 24
 * **Living in**: São Paulo, Brazil
-* **Stack**: C# - .NET - Vuejs - SQL 
+* **Stack**: C# - .NET - SQL and studying Clojure
  
 </div>
 
