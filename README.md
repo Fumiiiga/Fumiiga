@@ -1,23 +1,29 @@
-<h1 align="center"> Hi there !! </h1>
-
----
-<div>
- 
-My names is Sergio Gomes, I currently live in São Paulo, i'm student and technology enthusiast. I wish to become a proficient developer. I like to explore, learn new technologies and techniques.
-
-<h2 align="center"> Detailed information  </h2>
-
-* **Name**: Sérgio Gomes
-* **Age**: 25
-* **Living in**: São Paulo, Brazil
-* **Stack**: C# - .NET - SQL and studying Clojure
- 
-</div>
-
----
-
-### 📞 Let's Connect?
-Get in touch with me in one of the contact ways below:
-
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](thesergio.gomes@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/sergio-augusto-gomes/)&nbsp;
+<p float="right">
+ <img src="/imgs/kaneki.png" width="500" align="right">
+  <p float="right">
+    <samp>
+      :] 
+      <br>
+      <br>
+      about me:<br>
+             - he/him, brazilian, pt-br + eng <br>
+             - computer science student<br>
+             - working as IT engineering intern.<br>
+             - developer.<br>
+      <br>
+      <br>
+      langs:<br>
+          > C#/.NET, Golang, Rust
+      <br>
+      <br>
+      os:<br>
+        > arch linux.
+      <br>
+     <br>
+     <br>
+      blog:<br>
+         <a href=""> - WIP</a>
+      <b>
+    </samp>
+  </p>
+</p>
