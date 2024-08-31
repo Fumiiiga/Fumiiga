@@ -1,5 +1,5 @@
 <p float="right">
- <img src="/imgs/kaneki.png" width="500" align="right">
+ <img src="/imgs/gojo.png" width="500" align="right">
   <p float="right">
     <samp>
       :] 
