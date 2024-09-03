@@ -12,8 +12,10 @@
              - developer.<br>
       <br>
       <br>
-      langs:<br>
-          > C#/.NET, Golang, Rust
+      techs:<br>
+          > C#/.NET, Golang, OCaml ( learning )
+          <br>
+          > SQL
       <br>
       <br>
       os:<br>
