@@ -1,7 +1,4 @@
-<p float="left">
- <img src="https://github.com/sergioagomes/sergioagomes/blob/main/imgs/go2.jpg" width="400" align="left">
-  <p float="left">
-    <samp>
+   <samp>
       :] 
       <br>
       <br>
